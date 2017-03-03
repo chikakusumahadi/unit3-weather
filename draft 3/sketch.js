@@ -5,7 +5,7 @@
 
 function setup() {
   //set Canvas to size of window
-  createCanvas(700, 600);
+  createCanvas(windowWidth, windowHeight);
 
   
   //Introduction Page
